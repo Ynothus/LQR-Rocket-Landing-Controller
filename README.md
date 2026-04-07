@@ -27,7 +27,7 @@ True Physics → Noisy Sensors → Kalman Filter → LQR Controller → Thrust C
 1. Place both files in the same directory
 2. Run in MATLAB:
    RunSimulation
-3. A dialog box will appear with default values — adjust if needed and click OK
+3. A dialog box will appear with default values - adjust if needed and click OK
 4. Two figures will be generated
 
 
